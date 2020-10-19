@@ -8,7 +8,7 @@ This component uses [PhotoDraweeView](https://github.com/ongakuer/PhotoDraweeVie
 ## Usage
 
 ```javascript
-import PhotoView from 'react-native-photo-view';
+import PhotoView from '@arlenwang/react-native-photo-view';
 ```
 
 Basics:
